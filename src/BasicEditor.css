@@ -1,0 +1,13 @@
+.editor {
+  width: 960px;
+  margin: 0 auto;
+  padding: 1em;
+  height: 500px;
+  border: 1px solid #eee;
+  border-radius: 0.25rem;
+  color: #606060;
+}
+
+.editor a {
+    color: #08c;
+}
